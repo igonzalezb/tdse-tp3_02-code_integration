@@ -77,6 +77,10 @@ extern "C" {
 #define LED_A_ON		GPIO_PIN_SET
 #define LED_A_OFF		GPIO_PIN_RESET
 
+
+
+
+
 #endif
 
 /* STM32 Nucleo Boards - 144 Pins */
